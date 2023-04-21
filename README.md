@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm <a href="https://wkategianes.github.io/">William</a></h2>
-<p>I'm currently a software engineer at <strong><a href="https://www.hackforla.org/">Hack for LA</a></strong> and formerly a Software Engineering Apprentice at <strong><a href="https://generalassemb.ly/" target="_blank">General Assembly</a></strong> based in :ocean: Long Beach. I am working on some side projects, learning a couple new dishes, and trying my best to reach my fitness goals!</p>
+<p>I'm currently a software engineer at <strong><a href="https://www.hackforla.org/">Hack for LA</a></strong> and formerly a Software Engineering Apprentice at <strong><a href="https://generalassemb.ly/">General Assembly</a></strong> based in :ocean: Long Beach. I am working on some side projects, learning a couple new dishes, and trying my best to reach my fitness goals!</p>
 
 <p>
 
