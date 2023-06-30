@@ -11,6 +11,7 @@
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
+<li>🐶 Right now I am contributing to petDOC an application designed to help users monitor the health of their pets. <a href="https://github.com/guantanamobosch/pawsitively_fit">Learn More</a></li>
 <li>🔭 I’m currently working on learning more about <a href="https://docs.cypress.io/guides/overview/why-cypress">Cypress</a>.</li>
 <li>🧐 Learning about <strong>Unit Testing</strong>, <strong>Accessibility Testing</strong>, and a bit of <strong>Typescript</strong>.</li>
 <li>👨‍💻 Most of my projects are available on my <a href="https://wkategianes.github.io/">Portfolio</a>.</li>
